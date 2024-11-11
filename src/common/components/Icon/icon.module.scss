@@ -1,0 +1,18 @@
+@use "../../../styles/variables/index";
+
+.containerLeft {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.containerRight {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.size {
+  width: 4rem;
+  height: 4rem;
+}

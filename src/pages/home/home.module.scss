@@ -1,0 +1,17 @@
+.home {
+  margin-top: 15vh;
+  height: 85vh;
+  width: 70%;
+  position: absolute;
+  z-index: 2;
+
+  display: grid;
+  justify-self: anchor-center;
+  grid-template-columns: 1fr 1fr;
+
+  .box {
+    display: flex;
+    justify-content: center;
+    padding: 5rem;
+  }
+}
