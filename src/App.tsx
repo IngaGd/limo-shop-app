@@ -1,3 +1,4 @@
+import Footer from "./common/components/Footer/Footer";
 import Header from "./common/components/Header";
 import WallPaper from "./common/components/Wallpaper";
 import Home from "./pages/home/Home";
@@ -9,6 +10,7 @@ function App() {
       <WallPaper />
       <Header />
       <Home />
+      <Footer />
     </>
   );
 }
