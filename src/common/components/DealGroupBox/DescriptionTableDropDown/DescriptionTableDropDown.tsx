@@ -1,5 +1,5 @@
 import ButtonSecond from "../../Button/ButtonSecond";
-import { IconThreeDots } from "../../Icon/Icon";
+// import { IconThreeDots } from "../../Icon/Icon";
 import styles from "./descriptionTableDropDown.module.scss";
 import { DropDownProps } from "./descriptionTableDropDown.types";
 
